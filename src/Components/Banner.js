@@ -3,7 +3,7 @@ import TerraMainImage from "../asset/mainBanner.webp"
 import TerraOneImage from "../asset/1.webp"
 import TerraTwoImage from "../asset/new4.webp"
 import TerraThreeImage from "../asset/canteen.webp"
-import TerraFourImage from "../asset/new3.webp"
+import TerraFourImage from "../asset/new.webp"
 import TerraPrivateImage from "../asset/pri.webp"
 import TerraTwinImage from "../asset/twi.webp"
 import { LazyLoadImage } from 'react-lazy-load-image-component'
